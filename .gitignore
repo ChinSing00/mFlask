@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#chinsing00
+static/uploads/*
+
 # C extensions
 *.so
 
