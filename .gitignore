@@ -5,6 +5,7 @@ __pycache__/
 
 #chinsing00
 static/uploads/*
+pybin/
 
 # C extensions
 *.so
